@@ -5,9 +5,16 @@
 
 DOMAIN-SUFFIX,xmsl.org
 
+#域名匹配
+#台湾HiNet
+DOMAIN,tw.loseremby.org
+
 # 域名关键字匹配
 
 # IP段匹配
-
+#联通4837
+IP-CIDR,154.12.52.149/32,no-resolve
+#首尔G
+IP-CIDR,152.70.239.74/32,no-resolve
 
 # 国内DNS
