@@ -6,6 +6,9 @@
 DOMAIN-SUFFIX,xmsl.org
 
 #域名匹配
+#lexemby的域名
+DOMAIN,lex.yasser.asia
+
 #台湾HiNet
 DOMAIN,tw.loseremby.org
 
