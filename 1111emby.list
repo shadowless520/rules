@@ -15,6 +15,7 @@ DOMAIN,tw.loseremby.org
 # IP段匹配
 #反代vps的ip
 IP-CIDR,170.39.230.8/32,no-resolve
+IP-CIDR,192.161.162.37/32,no-resolve
 
 #联通4837
 IP-CIDR,154.12.52.149/32,no-resolve
