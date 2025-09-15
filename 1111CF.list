@@ -2,5 +2,8 @@
 
 # MyList
 # 域名后缀匹配
-DOMAIN,cf.xmsl.org
 DOMAIN,cflocal.xxlb.net
+
+#反代vps-无忧云-荷兰
+IP-CIDR,77.90.50.59/32,no-resolve
+
