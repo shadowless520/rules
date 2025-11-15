@@ -1,0 +1,19 @@
+{
+  "Regions": {
+    "901": {
+      "RegionID": 901,
+      "RegionCode": "阿里云",
+      "RegionName": "成都",
+      "Nodes": [
+        {
+          "Name": "901a",
+          "RegionID": 901,
+          "DERPPort": 33445,
+          "HostName": "47.108.162.194",
+          "IPv4": "47.108.162.194",
+          "InsecureForTests": true
+        }
+      ]
+    }
+  }
+}
